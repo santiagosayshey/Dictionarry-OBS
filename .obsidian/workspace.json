@@ -4,47 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "f16749fad1a66c9e",
+        "id": "263ddd2a7a884cd9",
         "type": "tabs",
         "children": [
           {
-            "id": "e4b460f468ad80fe",
+            "id": "53fb6fa031bac342",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Formats/Source/Netflix.md",
+                "file": "Custom Formats/Sources.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4f9144c103605387",
+            "id": "6b19df1c924b614e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Formats/Source/Peacock TV.md",
+                "file": "Custom Formats/Source/DVD.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "79634fd4204b4c66",
+            "id": "8eb636253216bcc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Formats/Custom Formats Encyclopedia.md",
+                "file": "Custom Formats/Source/x265 Encode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7639b928d4f51ad1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Formats/Sources.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Formats/Custom Formats Encyclopedia.md",
+                "file": "Custom Formats/Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Formats/Custom Formats Encyclopedia.md",
+                "file": "Custom Formats/Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,16 +162,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Formats/Custom Formats Encyclopedia.md"
+                "file": "Custom Formats/Sources.md"
               }
             }
+          },
+          {
+            "id": "53e0006603cede4e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,19 +192,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79634fd4204b4c66",
+  "active": "7639b928d4f51ad1",
   "lastOpenFiles": [
-    "Custom Formats/Source/Paramount+.md",
+    "Custom Formats/Source/x265 Encode.md",
+    "Custom Formats/Source/Remux.md",
+    "re.md",
+    "Custom Formats/Sources.md",
+    "Custom Formats/Release Groups.md",
+    "Custom Formats/Source/x264 Encode.md",
+    "Custom Formats/Source/DVD.md",
+    "Custom Formats/Source/UHD Bluray.md",
+    "Custom Formats/Source/Bluray.md",
+    "Custom Formats/Release Group/FLUX.md",
+    "Trackers/Beyond-HD.md",
+    "Trackers",
+    "Profiles",
+    "Custom Formats/Release Group",
+    "Custom Formats/Source/Apple TV+.md",
     "Custom Formats/Source/Peacock TV.md",
     "Custom Formats/Source/Netflix.md",
+    "README.md",
+    "Custom Formats/Source/Paramount+.md",
     "Custom Formats/Source/Hulu.md",
     "Custom Formats/Source/HBO Max.md",
     "Custom Formats/Source/Disney+.md",
-    "Custom Formats/Source/Apple TV+.md",
     "Custom Formats/Source/Amazon Prime.md",
     "Custom Formats/Source/Movies Anywhere.md",
-    "README.md",
-    "Custom Formats/Custom Formats Encyclopedia.md",
     "PTP 2-factor Backup Codes.md"
   ]
 }
