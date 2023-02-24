@@ -8,55 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53fb6fa031bac342",
+            "id": "375c122e929dd322",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Formats/Sources.md",
+                "file": "Custom Formats/Release Group/MZABI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6b19df1c924b614e",
+            "id": "d5bd11da730d7935",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Formats/Source/DVD.md",
+                "file": "Profiles/1080p Compatible.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8eb636253216bcc9",
+            "id": "6561e3c8bccefc8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Formats/Source/x265 Encode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7639b928d4f51ad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom Formats/Sources.md",
+                "file": "Profiles/Movie Samples.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Formats/Sources.md",
+                "file": "Profiles/1080p Compatible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Formats/Sources.md",
+                "file": "Profiles/1080p Compatible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Formats/Sources.md"
+                "file": "Profiles/1080p Compatible.md"
               }
             }
           },
@@ -192,18 +180,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7639b928d4f51ad1",
+  "active": "d5bd11da730d7935",
   "lastOpenFiles": [
+    "Profiles/Movie Samples.md",
+    "Profiles/1080p Compatible.md",
+    "Custom Formats/Release Group/MZABI.md",
+    "Custom Formats/Release Group/CMRG.md",
+    "Custom Formats/Release Group/SMURF.md",
+    "Custom Formats/Release Group/NTb.md",
+    "Custom Formats/Release Group/playWEB.md",
+    "NTb.md",
+    "Custom Formats/Sources.md",
     "Custom Formats/Source/x265 Encode.md",
+    "Custom Formats/Source/DVD.md",
+    "Custom Formats/Release Group/FLUX.md",
     "Custom Formats/Source/Remux.md",
     "re.md",
-    "Custom Formats/Sources.md",
     "Custom Formats/Release Groups.md",
     "Custom Formats/Source/x264 Encode.md",
-    "Custom Formats/Source/DVD.md",
     "Custom Formats/Source/UHD Bluray.md",
     "Custom Formats/Source/Bluray.md",
-    "Custom Formats/Release Group/FLUX.md",
     "Trackers/Beyond-HD.md",
     "Trackers",
     "Profiles",
@@ -214,10 +210,6 @@
     "README.md",
     "Custom Formats/Source/Paramount+.md",
     "Custom Formats/Source/Hulu.md",
-    "Custom Formats/Source/HBO Max.md",
-    "Custom Formats/Source/Disney+.md",
-    "Custom Formats/Source/Amazon Prime.md",
-    "Custom Formats/Source/Movies Anywhere.md",
-    "PTP 2-factor Backup Codes.md"
+    "Custom Formats/Source/HBO Max.md"
   ]
 }

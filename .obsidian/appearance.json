@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Atom",
-  "baseFontSize": 15
+  "baseFontSize": 18,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false
 }
