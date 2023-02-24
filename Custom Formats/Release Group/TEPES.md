@@ -1,15 +1,15 @@
 ```JSON
 {
-  "name": "MZABI",
+  "name": "TEPES",
   "includeCustomFormatWhenRenaming": true,
   "specifications": [
     {
-      "name": "MZABI",
+      "name": "TEPES",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": true,
       "fields": {
-        "value": "MZABI"
+        "value": "TEPES"
       }
     }
   ]

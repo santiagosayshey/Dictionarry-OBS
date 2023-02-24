@@ -4,47 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "263ddd2a7a884cd9",
+        "id": "10a14d41cb39182f",
         "type": "tabs",
         "children": [
           {
-            "id": "375c122e929dd322",
+            "id": "1d3fe75ce09badbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Formats/Release Group/MZABI.md",
+                "file": "Profiles/1080p WEB.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d5bd11da730d7935",
+            "id": "aa9381797cb12e90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profiles/1080p Compatible.md",
+                "file": "Profiles/1080p Transparent.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6561e3c8bccefc8d",
+            "id": "79109daf59004a58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profiles/Movie Samples.md",
+                "file": "Profiles/1080p Remux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc533a6aa2d46299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profiles/1080p Compatible.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Profiles/1080p Compatible.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Profiles/1080p Compatible.md"
+                "file": "README.md"
               }
             }
           },
@@ -180,36 +192,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5bd11da730d7935",
+  "active": "cc533a6aa2d46299",
   "lastOpenFiles": [
-    "Profiles/Movie Samples.md",
-    "Profiles/1080p Compatible.md",
+    "Profiles/1080p WEB.md",
+    "Profiles/2160p Remux.md",
+    "Profiles/1080p Remux.md",
+    "Profiles/1080p Transparent.md",
+    "Custom Formats/Audio/Atmos.md",
+    "Custom Formats/Other/IMAX.md",
+    "Custom Formats/Edition/Special.md",
+    "Custom Formats/Audio/TrueHD.md",
     "Custom Formats/Release Group/MZABI.md",
-    "Custom Formats/Release Group/CMRG.md",
+    "Profiles/Movie Samples.md",
+    "Custom Formats/Resolution/SD.md",
+    "Custom Formats/Audio/DTS.md",
+    "Custom Formats/Audio/Dolby Digital+.md",
+    "Custom Formats/Audio/DTS-HD MA.md",
+    "Custom Formats/Audio/DTS-X.md",
+    "Custom Formats/Release Group/EVO.md",
+    "Custom Formats/Source/iTunes.md",
+    "Custom Formats/Audio/Dolby Digital.md",
+    "Custom Formats/Resolution/720p.md",
+    "Custom Formats/Resolution/2160p.md",
+    "Custom Formats/Resolution/1080p.md",
+    "Custom Formats/Other",
+    "Custom Formats/Edition",
+    "Custom Formats/HDR",
+    "Custom Formats/Audio",
+    "Custom Formats/Resolution",
+    "Custom Formats/Release Group/TEPES.md",
     "Custom Formats/Release Group/SMURF.md",
-    "Custom Formats/Release Group/NTb.md",
     "Custom Formats/Release Group/playWEB.md",
-    "NTb.md",
-    "Custom Formats/Sources.md",
-    "Custom Formats/Source/x265 Encode.md",
-    "Custom Formats/Source/DVD.md",
+    "Custom Formats/Release Group/CMRG.md",
     "Custom Formats/Release Group/FLUX.md",
-    "Custom Formats/Source/Remux.md",
-    "re.md",
-    "Custom Formats/Release Groups.md",
-    "Custom Formats/Source/x264 Encode.md",
-    "Custom Formats/Source/UHD Bluray.md",
-    "Custom Formats/Source/Bluray.md",
-    "Trackers/Beyond-HD.md",
     "Trackers",
     "Profiles",
-    "Custom Formats/Release Group",
-    "Custom Formats/Source/Apple TV+.md",
-    "Custom Formats/Source/Peacock TV.md",
-    "Custom Formats/Source/Netflix.md",
-    "README.md",
-    "Custom Formats/Source/Paramount+.md",
-    "Custom Formats/Source/Hulu.md",
-    "Custom Formats/Source/HBO Max.md"
+    "Custom Formats/Release Group"
   ]
 }
