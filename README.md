@@ -1,7 +1,3 @@
-# Dictionarry
-
-A collection of profiles, custom formats and general tracker lingo used to optimise and automate Radarr and Sonarr. 
-
 # Profiles
 
 ## 1080p WEB
