@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0641fee3ad0fca30",
+        "id": "f16749fad1a66c9e",
         "type": "tabs",
         "children": [
           {
-            "id": "94c698a84da313f7",
+            "id": "e4b460f468ad80fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Custom Formats/Source/Netflix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f9144c103605387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Formats/Source/Peacock TV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79634fd4204b4c66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Formats/Custom Formats Encyclopedia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Custom Formats/Custom Formats Encyclopedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Custom Formats/Custom Formats Encyclopedia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Custom Formats/Custom Formats Encyclopedia.md"
+              }
             }
           }
         ]
@@ -139,12 +172,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94c698a84da313f7",
+  "active": "79634fd4204b4c66",
   "lastOpenFiles": [
+    "Custom Formats/Source/Paramount+.md",
+    "Custom Formats/Source/Peacock TV.md",
+    "Custom Formats/Source/Netflix.md",
+    "Custom Formats/Source/Hulu.md",
+    "Custom Formats/Source/HBO Max.md",
+    "Custom Formats/Source/Disney+.md",
+    "Custom Formats/Source/Apple TV+.md",
+    "Custom Formats/Source/Amazon Prime.md",
+    "Custom Formats/Source/Movies Anywhere.md",
     "README.md",
     "Custom Formats/Custom Formats Encyclopedia.md",
-    "Custom Formats/Source/Movies Anywhere.md",
-    "Custom Formats/Source/Amazon Prime.md",
     "PTP 2-factor Backup Codes.md"
   ]
 }

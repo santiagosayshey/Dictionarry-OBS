@@ -1,0 +1,36 @@
+```JSON
+{
+  "trash_id": "c9fd353f8f5f1baf56dc601c4cb29920",
+  "name": "PCOK",
+  "includeCustomFormatWhenRenaming": true,
+  "specifications": [
+    {
+      "name": "Peacock TV",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": true,
+      "fields": {
+        "value": "\\b(pcok|peacock)\\b"
+      }
+    },
+    {
+      "name": "WEBDL",
+      "implementation": "SourceSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 7
+      }
+    },
+    {
+      "name": "WEBRIP",
+      "implementation": "SourceSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 8
+      }
+    }
+  ]
+}
+```
