@@ -10,7 +10,7 @@
 |      | Peacock TV      | PCOK         | [[Peacock TV]]      | 4    | WEB, bad quality                     |
 |      | Paramount+      | PMTP         | [[Paramount+]]      | 4    | WEB, bad quality                     |
 | Disc | UHD Bluray      | UHD          | [[UHD Bluray]]      | N/A  | Full UHD Disc                        |
-|      | Bluray          | BR           | [[Bluray]]          | N/A  | Full Bluray                          |
+|      | Bluray          | BD           | [[Bluray]]          | N/A  | Full Bluray                          |
 |      | DVD             | DVD          | [[DVD]]             | N/A  | Full DVD                             |
 |      | x265 Encode     | x265         | [[x265 Encode]]     | N/A  | x265 Transparent Encode, 4k & 1080p  |
 |      | x264 Encode     | x264         | [[x264 Encode]]     | N/A  | x264 Transparent Encode, 1080p only  |

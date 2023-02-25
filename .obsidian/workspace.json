@@ -4,16 +4,124 @@
     "type": "split",
     "children": [
       {
-        "id": "10a14d41cb39182f",
+        "id": "c071c191544dc856",
         "type": "tabs",
         "children": [
           {
-            "id": "aa9381797cb12e90",
+            "id": "5ce15e9c80cb5ef7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7aa4a61f747cb88c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Formats/Release Group/KRaLiMaRKo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b63df1b49467a26f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Formats/Release Group/FLiGHTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94138ee81490df23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Formats/Release Group/TRiToN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "619d83463bed26ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Formats/Release Group/EPSiLON.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a61be392430383c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Formats/Release Group/NCmt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "564b332f413743e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Formats/Release Group/HiFi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8173e9ead337fdb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Formats/Release Group/BLURANiUM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5544e199c2bd68bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Formats/Release Group/playBD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dd6ad832d957187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Formats/Release Group/FraMeSToR.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,44 +263,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa9381797cb12e90",
+  "active": "5ce15e9c80cb5ef7",
   "lastOpenFiles": [
-    "Profiles/1080p WEB.md",
-    "Profiles/Movie Samples.md",
-    "Custom Formats/Release Group/FLUX.md",
-    "Testing/The Batman - 1080p WEB.png",
-    "Testing",
+    "Profiles/1080p Remux.md",
     "README.md",
-    "Untitled.md",
-    "Untitled/github",
-    "Profiles/1080p Transparent.md",
-    "Custom Formats/Source/iTunes.md",
+    "Custom Formats/Release Group/KRaLiMaRKo.md",
+    "Custom Formats/Sources.md",
+    "Custom Formats/Release Groups.md",
+    "Custom Formats/Release Group/TRiToN.md",
     "Custom Formats/Release Group/TEPES.md",
     "Custom Formats/Release Group/SMURF.md",
     "Custom Formats/Release Group/playWEB.md",
+    "Custom Formats/Release Group/playBD.md",
+    "Custom Formats/Release Group/NTb.md",
+    "Custom Formats/Release Group/NCmt.md",
     "Custom Formats/Release Group/MZABI.md",
+    "Custom Formats/Release Group/HiFi.md",
+    "Custom Formats/Release Group/FraMeSToR.md",
+    "Custom Formats/Release Group/FLUX.md",
+    "Custom Formats/Release Group/FLiGHTS.md",
     "Custom Formats/Release Group/EVO.md",
-    "Custom Formats/Other/IMAX.md",
-    "Custom Formats/Edition/Special.md",
-    "Custom Formats/Audio/TrueHD.md",
-    "Custom Formats/Audio/DTS-X.md",
-    "Custom Formats/Audio/DTS-HD MA.md",
-    "Custom Formats/Audio/DTS.md",
-    "Custom Formats/Audio/Dolby Digital+.md",
-    "Custom Formats/Audio/Dolby Digital.md",
+    "Custom Formats/Release Group/EPSiLON.md",
+    "Custom Formats/Release Group/CMRG.md",
+    "Custom Formats/Release Group/BLURANiUM.md",
+    "Custom Formats/Other/Criterion.md",
+    "Profiles/tableConvert.com_23dwus.md",
+    "Custom Formats/Release Group/WEB",
+    "Custom Formats/Release Group/BD",
     "Custom Formats/Audio/Atmos.md",
-    "Custom Formats/Resolution/SD.md",
-    "Custom Formats/Resolution/2160p.md",
-    "Custom Formats/Resolution/720p.md",
-    "Custom Formats/Resolution/1080p.md",
-    "Profiles/2160p Remux.md",
+    "Custom Formats/HDR/HDR10.md",
+    "Custom Formats/HDR/HDR10+.md",
+    "Testing/The Batman - 1080p WEB.png",
+    "Testing",
+    "Untitled/github",
     "Custom Formats/Other",
     "Custom Formats/Edition",
     "Custom Formats/HDR",
     "Custom Formats/Audio",
     "Custom Formats/Resolution",
-    "Trackers",
-    "Profiles",
-    "Custom Formats/Release Group"
+    "Trackers"
   ]
 }
